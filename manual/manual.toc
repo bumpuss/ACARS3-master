@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Legal information and disclosure}{3}{section.1}
+\contentsline {section}{\numberline {2}Introduction}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Systems requirements}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Changes from US ACARS 2.2}{3}{subsection.2.2}
+\contentsline {section}{\numberline {3}Installation}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}US ACARS 3}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}FSUIPC}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}XPUIPC}{5}{subsection.3.3}
+\contentsline {section}{\numberline {4}Connecting to ACARS}{5}{section.4}
+\contentsline {section}{\numberline {5}US ACARS 3 interface}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}Dispatch panel}{7}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Company information}{8}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Flight data recorder}{9}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Company chat}{9}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Online status}{10}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Weather}{10}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Current itinerary}{11}{subsection.5.7}
+\contentsline {section}{\numberline {6}Flight procedures}{12}{section.6}
+\contentsline {subsection}{\numberline {6.1}Preflight}{12}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Begin flight}{13}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}End flight}{14}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}US ACARS 3 checklists}{15}{subsection.6.4}
+\contentsline {section}{\numberline {7}Frequently asked questions}{15}{section.7}

@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Legal information and disclosure}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Systems requirements}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Changes from US ACARS 2.2}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Installation}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{US ACARS 3}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{FSUIPC}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{XPUIPC}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Connecting to ACARS}{}% 9
+\BOOKMARK [1][-]{section.5}{US ACARS 3 interface}{}% 10
+\BOOKMARK [2][-]{subsection.5.1}{Dispatch panel}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.2}{Company information}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.3}{Flight data recorder}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.4}{Company chat}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.5}{Online status}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.6}{Weather}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.7}{Current itinerary}{section.5}% 17
+\BOOKMARK [1][-]{section.6}{Flight procedures}{}% 18
+\BOOKMARK [2][-]{subsection.6.1}{Preflight}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.2}{Begin flight}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.3}{End flight}{section.6}% 21
+\BOOKMARK [2][-]{subsection.6.4}{US ACARS 3 checklists}{section.6}% 22
+\BOOKMARK [1][-]{section.7}{Frequently asked questions}{}% 23
